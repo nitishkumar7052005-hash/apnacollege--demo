@@ -1,4 +1,4 @@
 # apnacollege--demo
 This is my first Repository.
 <br>
-Author ~ Nitish kumar
+Author ~ Nitish (apna college)
